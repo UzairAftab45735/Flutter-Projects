@@ -1,4 +1,4 @@
-# FlutterProjects
+# FlutterMap-Demo
 
 This repository contains Flutter projects for practice, learning, and demonstration purposes. Projects include CRUD operations, UI design, and state management.
 
